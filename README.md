@@ -1,1 +1,1 @@
-# Atividade-de-repeti-o-enquanto
+# Atividade-estrutura-de-repeti-o-enquanto
